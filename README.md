@@ -1,7 +1,5 @@
 Hi. 
 
+I'm a kid. I don't know much about coding, but I'll learn. (I hope :). 
+I like coding and other stuff like gaming lol. We'll see. 
 
-<!---
-matfat55/matfat55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
